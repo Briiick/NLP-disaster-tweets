@@ -8,6 +8,7 @@
 
 ### Project structure:
 
+```
 ├── README.md           <- The top-level README for developers using this project.
 ├── data
 │   ├── raw             <- The raw data
@@ -23,7 +24,7 @@
 ├── notebooks           <- Jupyter notebooks for this project.
 │
 ├── data-dictionary.txt <- Data dictionaries, manuals, and all other explanatory materials.
-
+```
 
 ### Data
 
