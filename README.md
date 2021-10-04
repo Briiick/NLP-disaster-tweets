@@ -29,3 +29,18 @@
 ### Data
 
 Raw data source: https://www.kaggle.com/c/nlp-getting-started/overview
+
+### Using The Project
+
+Check in the notebooks folder to see the associated exploratory analysis.
+
+If you want to play with it, simply type `git clone https://github.com/Briiick/NLP-disaster-tweets.git` in your terminal.
+### References
+
+[https://www.kaggle.com/c/nlp-getting-started/overview](https://www.kaggle.com/c/nlp-getting-started/overview)
+
+[https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert](https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert)
+
+[https://medium.com/analytics-vidhya/basics-of-using-pre-trained-glove-vectors-in-python-d38905f356db](https://medium.com/analytics-vidhya/basics-of-using-pre-trained-glove-vectors-in-python-d38905f356db)
+
+[https://towardsdatascience.com/cleaning-text-data-with-python-b69b47b97b76](https://towardsdatascience.com/cleaning-text-data-with-python-b69b47b97b76)
