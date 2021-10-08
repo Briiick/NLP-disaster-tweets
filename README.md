@@ -6,22 +6,24 @@
 
 ---
 
+#### Currect Submission Accuracy and Position on Leaderboard: 0.75452%, #1102
+
 ### Project structure:
 
 ```
-├── README.md           <- The top-level README for developers using this project.
+├── README.md                     <- The top-level README for developers using this project.
 ├── data
-│   ├── raw             <- The raw data
-│   ├── interim         <- Intermediate data that has been transformed.
-│   ├── processed       <- The final, canonical data sets for modeling.
+│   ├── raw                       <- The raw data
+│   ├── submissions               <- The final data to be submitted
 │
 │
-├── requirements.txt    <- Requirements for this project.
+├── requirements.txt              <- Requirements for this project.
 │
-├── utils.py            <- Utility functions for project.
-├── tweet-scraping.py   <- Tweet scraping for more data.
+├── utils.py                      <- Utility functions for project.
+├── tweet-scraping.py             <- Tweet scraping for more data.
 │
-├── notebooks           <- Jupyter notebooks for this project.
+├── notebooks                     <- Jupyter notebooks for this project.
+│   ├── nlp_disaster_tweets       <- The main Jupyter notebook
 │
 ├── data-dictionary.txt <- Data dictionaries, manuals, and all other explanatory materials.
 ```
@@ -37,10 +39,12 @@ Check in the notebooks folder to see the associated exploratory analysis.
 If you want to play with it, simply type `git clone https://github.com/Briiick/NLP-disaster-tweets.git` in your terminal.
 ### References
 
-[https://www.kaggle.com/c/nlp-getting-started/overview](https://www.kaggle.com/c/nlp-getting-started/overview)
+[Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/overview)
 
-[https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert](https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert)
+[NLP with Disaster Tweets: EDA, cleaning and BERT](https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert)
 
-[https://medium.com/analytics-vidhya/basics-of-using-pre-trained-glove-vectors-in-python-d38905f356db](https://medium.com/analytics-vidhya/basics-of-using-pre-trained-glove-vectors-in-python-d38905f356db)
+[Basics of using pre-trained GloVe Vectors](https://medium.com/analytics-vidhya/basics-of-using-pre-trained-glove-vectors-in-python-d38905f356db)
 
-[https://towardsdatascience.com/cleaning-text-data-with-python-b69b47b97b76](https://towardsdatascience.com/cleaning-text-data-with-python-b69b47b97b76)
+[Cleaning text data with Python](https://towardsdatascience.com/cleaning-text-data-with-python-b69b47b97b76)
+
+[What is tokenization?](https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/)
