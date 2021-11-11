@@ -48,3 +48,5 @@ If you want to play with it, simply type `git clone https://github.com/Briiick/N
 [Cleaning text data with Python](https://towardsdatascience.com/cleaning-text-data-with-python-b69b47b97b76)
 
 [What is tokenization?](https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/)
+
+[BERT Text Classification using Keras](https://swatimeena989.medium.com/bert-text-classification-using-keras-903671e0207d)
