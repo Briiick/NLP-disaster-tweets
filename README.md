@@ -6,7 +6,7 @@
 
 ---
 
-#### Currect Submission Accuracy and Position on Leaderboard: 0.75452%, #1102
+#### Currect Submission Accuracy and Position on Leaderboard: 84.063%, position #71 (although #52 if you subtract cheaters).
 
 ### Project structure:
 
