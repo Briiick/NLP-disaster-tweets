@@ -10,7 +10,7 @@ See articles here:
 - https://towardsdatascience.com/part-1-data-cleaning-does-bert-need-clean-data-6a50c9c6e9fd
 - https://towardsdatascience.com/does-bert-need-clean-data-part-2-classification-d29adf9f745a
 
-#### Currect Submission Accuracy and Position on Leaderboard: 84.063%, position #71 (although #52 if you subtract cheaters).
+#### Submission Accuracy and Position on Leaderboard (at time of post): 84.063%, position #71 (although #52 if you subtract cheaters).
 
 ### Project structure:
 
